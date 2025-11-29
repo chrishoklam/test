@@ -1,0 +1,5 @@
+{
+  "name": "Redox Reaction Visualizer",
+  "description": "An interactive educational tool to teach Sodium-Chlorine redox reactions using drag-and-drop mechanics and simplified Bohr models.",
+  "requestFramePermissions": []
+}
